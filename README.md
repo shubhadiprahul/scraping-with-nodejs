@@ -18,3 +18,7 @@ Cheerio js is a Javascript technology used for web-scraping in server-side imple
 
 `const $ = cheerio.load(body)
 `
+
+## Installation
+$ npm i cheerio
+$ npm i express
