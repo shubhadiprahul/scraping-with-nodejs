@@ -1,5 +1,6 @@
 # scraping-with-nodejs
-I'm scraped latest stories from the website 
+I'm scraped latest stories from the website.
+
 `htttp://time.com/` 
 
 I'm scraped with `request` and `cheerio` and I'm also use `express` for creating server .
