@@ -13,5 +13,6 @@ Request is used to describe an request to a server. Use with fetch() to perform 
 Cheerio js is a Javascript technology used for web-scraping in server-side implementations. Web-scraping is a scripted method of extracting data from a website that can be tailored to your use-case. NodeJS is often used as the server-side platform.
 `const cheerio = require('cheerio');
 `
+
 `const $ = cheerio.load(body)
 `
